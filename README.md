@@ -2,14 +2,16 @@
 This repository offers a collection of resources for image processing.
 
 ## Books
-1. Programming Computer Vision with Python
+1. Programming Computer Vision with Python by Jan Erik Solem [(PDF)](http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf)
     - This is a good place to start working with images. The book and its examples mainly use
         - Python Imaging Library (PIL) www.pythonware.com/products/pil/ [Handbook](http://effbot.org/imagingbook/pil-index.htm)
         - Numpy http://www.numpy.org/
         - scikit-image http://scikit-image.org/
     - Web site http://programmingcomputervision.com/
     - Code repository: https://github.com/jesolem/PCV
-1. 
+1. Computer Vision: Algorithms and Applications by Richard Szeliski [(PDF)](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
+     - Comprehensive textbook on computer vision.
+     - Web site http://szeliski.org/Book/
 
 ## Image Processing with OpenCV
 - Feature extraction
