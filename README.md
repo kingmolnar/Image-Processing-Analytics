@@ -12,6 +12,10 @@ This repository offers a collection of resources for image processing.
 1. Computer Vision: Algorithms and Applications by Richard Szeliski [(PDF)](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
      - Comprehensive textbook on computer vision.
      - Web site http://szeliski.org/Book/
+     
+## Applications
+- ImageMagic https://www.imagemagick.org/ is a popular selection of image processing tools for the command line. This utility is useful to scale and crop batches of images. (The tools are already installed on arc.insight.gsu.edu)
+- GNU Image Manipulation Program (GIMP) https://www.gimp.org is a powerful software, available for all major operating systems.
 
 ## Image Processing with OpenCV
 - Feature extraction
