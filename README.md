@@ -1,4 +1,5 @@
-# Intro Image Processing
+# Image Processing and Analytics
+
 This repository offers a collection of resources for image processing.
 
 ## Books
