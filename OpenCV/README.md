@@ -1,6 +1,6 @@
 # OpenCV Introduction
 
-These notebooks provide a brief introduction to OpenCV
+These notebooks provide a brief introduction to OpenCV and several exercises. Solutions per request.
 
 - 1_Getting_Started_with_OpenCV.ipynb
   - basics to load images,
