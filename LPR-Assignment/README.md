@@ -10,7 +10,8 @@ For this project we provide a dataset of about 1,800 license plates with an imag
 We use three different technologies to extract the registration number from the license plate image (IR-patch):
 1.	Use OpenCV image processing tools to manipulate and enhance the image for performing OCR with the open source package Tesseract
 2.	Use of cloud AI services, such as Amazon Rekognition on AWS
-3.	Use a pre-trained Deep Neural Network (DNN) like LPRNet. https://arxiv.org/abs/1806.10447v1 
+3.	Use a Convolutional Neural Networks (CNN): use pre-trained, build on pre-trained, or build from scratch.
+    - e.g. LPRNet. https://arxiv.org/abs/1806.10447v1 
 
 The notebooks provide some guidance on starting this project.
 Data are available to students enrolled in this course.
