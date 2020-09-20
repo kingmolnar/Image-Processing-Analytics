@@ -16,7 +16,7 @@ In order to connect to AWS service in your appliation you need to create a user 
 After createing an AWS account follow the steps in this video to create a user account:
 https://aws.amazon.com/premiumsupport/knowledge-center/create-new-iam-user/
 
-<a href="https://www.youtube.com/watch?v=wRzzBb18qUw&feature=share&t=324s"><img src="AWS_Account_Setup_imgs/youtube.png" /></a>
+<a href="https://youtu.be/wRzzBb18qUw"><img src="AWS_Account_Setup_imgs/youtube.png" /></a>
 
 ## Enable Amazon S3 and Amazon Rekognition
 
